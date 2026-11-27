@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="417" height="194" viewBox="0 0 417 194" role="img" aria-label="harmonia">
+  <rect x="0.5" y="0.5" width="416" height="193" fill="#16181F" stroke="#2E313D" stroke-width="1"/>
+  <rect x="1" y="1" width="415" height="48" fill="#14243A"/><path fill="#1F3C63" shape-rendering="crispEdges" d="M7 1h6v6h-6zM43 1h6v6h-6zM79 1h6v6h-6zM115 1h6v6h-6zM151 1h6v6h-6zM187 1h6v6h-6zM223 1h6v6h-6zM259 1h6v6h-6zM295 1h6v6h-6zM331 1h6v6h-6zM367 1h6v6h-6zM403 1h6v6h-6zM1 7h18v6h-18zM37 7h18v6h-18zM73 7h18v6h-18zM109 7h18v6h-18zM145 7h18v6h-18zM181 7h18v6h-18zM217 7h18v6h-18zM253 7h18v6h-18zM289 7h18v6h-18zM325 7h18v6h-18zM361 7h18v6h-18zM397 7h18v6h-18zM7 13h6v6h-6zM43 13h6v6h-6zM79 13h6v6h-6zM115 13h6v6h-6zM151 13h6v6h-6zM187 13h6v6h-6zM223 13h6v6h-6zM259 13h6v6h-6zM295 13h6v6h-6zM331 13h6v6h-6zM367 13h6v6h-6zM403 13h6v6h-6zM25 19h6v6h-6zM61 19h6v6h-6zM97 19h6v6h-6zM133 19h6v6h-6zM169 19h6v6h-6zM205 19h6v6h-6zM241 19h6v6h-6zM277 19h6v6h-6zM313 19h6v6h-6zM349 19h6v6h-6zM385 19h6v6h-6zM19 25h18v6h-18zM55 25h18v6h-18zM91 25h18v6h-18zM127 25h18v6h-18zM163 25h18v6h-18zM199 25h18v6h-18zM235 25h18v6h-18zM271 25h18v6h-18zM307 25h18v6h-18zM343 25h18v6h-18zM379 25h18v6h-18zM415 25h1v6h-1zM25 31h6v6h-6zM61 31h6v6h-6zM97 31h6v6h-6zM133 31h6v6h-6zM169 31h6v6h-6zM205 31h6v6h-6zM241 31h6v6h-6zM277 31h6v6h-6zM313 31h6v6h-6zM349 31h6v6h-6zM385 31h6v6h-6zM7 37h6v6h-6zM43 37h6v6h-6zM79 37h6v6h-6zM115 37h6v6h-6zM151 37h6v6h-6zM187 37h6v6h-6zM223 37h6v6h-6zM259 37h6v6h-6zM295 37h6v6h-6zM331 37h6v6h-6zM367 37h6v6h-6zM403 37h6v6h-6zM1 43h18v6h-18zM37 43h18v6h-18zM73 43h18v6h-18zM109 43h18v6h-18zM145 43h18v6h-18zM181 43h18v6h-18zM217 43h18v6h-18zM253 43h18v6h-18zM289 43h18v6h-18zM325 43h18v6h-18zM361 43h18v6h-18zM397 43h18v6h-18z"/>
+  <line x1="0.5" y1="49.5" x2="416.5" y2="49.5" stroke="#2E313D" stroke-width="1"/>
+  <rect x="14" y="14" width="114" height="22" fill="#F4F4F6"/>
+  <text x="22" y="28.5" font-family='"JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="10" font-weight="700" fill="#101115">(01) Java</text>
+  <rect x="367" y="7" width="36" height="36" fill="#F4F4F6" stroke="#2E313D" stroke-width="1"/>
+  <rect x="375" y="15" width="10" height="10" fill="#38BDF8" shape-rendering="crispEdges"/>
+  <rect x="388" y="25" width="7" height="7" fill="#101115" shape-rendering="crispEdges"/>
+
+  <text x="16" y="80" font-family='"Inter Tight", -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans CJK SC", Arial, sans-serif' font-size="19" font-weight="800" fill="#F4F4F6">harmonia</text>
+  <text x="401" y="79" text-anchor="end" font-family='"JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="10" fill="#7C8091">★ 2 ↗</text>
+  <text x="16" y="106" font-family='"Inter Tight", -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans CJK SC", Arial, sans-serif' font-size="12.5" fill="#B4B6C2">Open-source Java repository by @DioMenuzzo.</text>
+  <line x1="16" y1="152" x2="401" y2="152" stroke="#232631" stroke-width="1"/>
+  <text x="16" y="174" font-family='"JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="10.5" fill="#7C8091">Java · ★ 2 · Forks 0 · OSS</text>
+</svg>

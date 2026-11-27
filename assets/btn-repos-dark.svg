@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="30" viewBox="0 0 126 30" role="img" aria-label="3 Repositories">
+  <rect x="0.5" y="0.5" width="125" height="29" fill="#16181F" stroke="#2E313D" stroke-width="1"/>
+  <rect x="10" y="12" width="5" height="5" fill="#38BDF8" shape-rendering="crispEdges"/>
+  <text x="21" y="19" font-family='"JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11" font-weight="700" fill="#F4F4F6">3 Repositories</text>
+</svg>
